@@ -1,0 +1,5 @@
+{
+  "name": "Hydro Data Fetcher ver.01",
+  "description": "A web-based tool to fetch and display simulated NOAA Atlas 14 rainfall data for any given latitude and longitude. Users can input coordinates, retrieve a detailed precipitation frequency table, and download the data as a CSV file.",
+  "requestFramePermissions": []
+}
